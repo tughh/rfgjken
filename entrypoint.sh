@@ -10,7 +10,7 @@ PAAS2_URL=https://forest-hickory-vault.glitch.me/
 PAAS3_URL=https://qqq.fjgtjkjk.repl.co/
 PAAS4_URL=https://qqq-1.fjgtjkjk.repl.co/
 PAAS5_URL=https://junk.skysmall.repl.co/
-PAAS6_URL=
+PAAS6_URL=https://rgtjiy.onrender.com
 
 # koyeb账号保活
 KOYEB_ACCOUNT=yfxwgfd@mailfence.com

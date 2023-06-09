@@ -5,20 +5,20 @@ WSPATH=${WSPATH:-'argo'}
 UUID=${UUID:-'fbf91e63-aa41-4aca-ac2f-d719fb36f71e'}
 
 # 其他Paas保活
-PAAS1_URL=https://raspy-heart-4153.gfyughl6376.workers.dev/
-PAAS2_URL=https://forest-hickory-vault.glitch.me/
-PAAS3_URL=https://qqq.fjgtjkjk.repl.co/
-PAAS4_URL=https://qqq-1.fjgtjkjk.repl.co/
-PAAS5_URL=https://junk.skysmall.repl.co/
-PAAS6_URL=https://rgtjiy.onrender.com
+PAAS1_URL= 
+PAAS2_URL= 
+PAAS3_URL= 
+PAAS4_URL= 
+PAAS5_URL= 
+PAAS6_URL= 
 
 # koyeb账号保活
 KOYEB_ACCOUNT=yfxwgfd@mailfence.com
 KOYEB_PASSWORD=tgy6576gg
 
 # Argo 固定域名隧道的两个参数,这个可以填 Json 内容或 Token 内容，获取方式看 https://github.com/fscarmen2/X-for-Glitch，不需要的话可以留空，删除或在这三行最前面加 # 以注释
-ARGO_AUTH='{"AccountTag":"a4b9fccb0e2f67acdd15bd1686217f93","TunnelSecret":"03OF2wVHPosjTO6KWCV4z9i3CgLuZwRuQ0t3x8LRps0=","TunnelID":"c4c4ee22-10c9-410b-b702-97d247660d5d"}'
-ARGO_DOMAIN=rghgen.pofcnssvsd.ga
+ARGO_AUTH='{"AccountTag":"e2b44c9d0ce5dd78bb2a0f8c9ae5013d","TunnelSecret":"0R5TnV4RHzBbTSmsMBCIGhUrPpxwg500ldsxX63S4FM=","TunnelID":"b7096081-90fe-4830-8ab4-2b0a8345147a"}'
+ARGO_DOMAIN=renhg4.bvhghgf.tk
 
 generate_config() {
   cat > config.json << EOF
